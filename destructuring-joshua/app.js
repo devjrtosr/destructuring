@@ -27,7 +27,7 @@ const mostrarPokemon = ({ name, types, sprites, abilities }) => {
         <img src="${imagePokemon}" alt="Imagen de ${name}" />
         <p>Nombre: ${name}</p>
         <p>Tipos: ${nameFirstType},${nameSecondType}</p>
-        <p>Abilidades: ${nameFirstAbility}, ${nameSecondAbility}</p>
+        <p>Habilidades: ${nameFirstAbility}, ${nameSecondAbility}</p>
     </div>
     `;
 
