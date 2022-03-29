@@ -1,0 +1,16 @@
+.cuerpo {
+  background-color: #d8f3dc;
+}
+.contenedor {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 3% auto;
+}
+.tarjeta {
+  background-color: #bee1e6;
+  border: 2px solid #006d77;
+  border-radius: 10px;
+  margin: 10px;
+  text-align: center;
+  width: 250px;
+}
