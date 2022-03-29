@@ -1,0 +1,19 @@
+.contenedor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.contenedor-pokemon {
+  background-color: rgb(80, 155, 80);
+  border-radius: 10%;
+  text-align: center;
+  color: beige;
+  width: 30%;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+}
